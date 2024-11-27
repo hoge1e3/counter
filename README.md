@@ -5,7 +5,7 @@ Count-up elements
 
 ## Example
 ~~~js
-import {Counter} from "../counter.js";
+import {Counter} from "@hoge1e3/counter";
 import * as assert from "assert";
 const c=new Counter();
 // c is a Counter that counts numbers 

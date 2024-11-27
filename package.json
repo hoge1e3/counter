@@ -7,10 +7,10 @@
     "repository": "https://github.com/hoge1e3/counter",
     "description": "Count-up elements.",
     "main": "counter.js",
-    "name": "counter",
+    "name": "@hoge1e3/counter",
     "type": "module",
     "types": "types.d.ts",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "dependencies": {
         "@hoge1e3/default-map": "^1.0.4"
     }
