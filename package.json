@@ -10,7 +10,8 @@
     "name": "@hoge1e3/counter",
     "type": "module",
     "types": "types.d.ts",
-    "version": "1.0.1",
+    "version": "1.0.2",
+    "keywords": ["counter","frequency","collections","set"],
     "dependencies": {
         "@hoge1e3/default-map": "^1.0.4"
     }
